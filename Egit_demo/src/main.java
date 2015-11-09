@@ -5,6 +5,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("Lets do something with GIT");
 		System.out.println("nothing to do..");
+		System.out.println("waiting....");
 
 
 	}
