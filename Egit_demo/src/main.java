@@ -6,7 +6,9 @@ public class main {
 		System.out.println("Lets do something with GIT");
 		System.out.println("nothing to do..");
 		System.out.println("waiting....");
-
+		System.out.println("waiting....");
+		System.out.println("waiting....");
+		System.out.println("waiting....");
 
 	}
 
